@@ -1,0 +1,2 @@
+# Experiment results will be stored here as CSV files
+# Format: cutoff, array_type, array_size, run, time_ms
